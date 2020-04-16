@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Lyrics-Finder/static/css/main.89bad882.chunk.css",
+    "main.js": "/Lyrics-Finder/static/js/main.779329b0.chunk.js",
+    "main.js.map": "/Lyrics-Finder/static/js/main.779329b0.chunk.js.map",
+    "runtime-main.js": "/Lyrics-Finder/static/js/runtime-main.3e96dedc.js",
+    "runtime-main.js.map": "/Lyrics-Finder/static/js/runtime-main.3e96dedc.js.map",
+    "static/js/2.57df2817.chunk.js": "/Lyrics-Finder/static/js/2.57df2817.chunk.js",
+    "static/js/2.57df2817.chunk.js.map": "/Lyrics-Finder/static/js/2.57df2817.chunk.js.map",
+    "index.html": "/Lyrics-Finder/index.html",
+    "precache-manifest.75049a1e32371e12d270596affed2784.js": "/Lyrics-Finder/precache-manifest.75049a1e32371e12d270596affed2784.js",
+    "service-worker.js": "/Lyrics-Finder/service-worker.js",
+    "static/css/main.89bad882.chunk.css.map": "/Lyrics-Finder/static/css/main.89bad882.chunk.css.map",
+    "static/js/2.57df2817.chunk.js.LICENSE.txt": "/Lyrics-Finder/static/js/2.57df2817.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e96dedc.js",
+    "static/js/2.57df2817.chunk.js",
+    "static/css/main.89bad882.chunk.css",
+    "static/js/main.779329b0.chunk.js"
+  ]
+}
