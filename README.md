@@ -1,68 +1,74 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Lyrics Finder
+## Lyrics Finder created with React and Redux
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![screenshot](./images/screen.png)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Additional description about the project and its features.
 
-### `npm test`
+## Built With
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- HTML,
+- Bootstrap
+- fontawesome
+- React
+- Redux
+- API (musixmatch)
 
-### `npm run build`
+## Live Demo
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[Live Demo Link](https://alexoid1.github.io/Lyrics-Finder/#/)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Getting Started
 
-### `npm run eject`
+**Navigation bar**
+- Go to (https://alexoid1.github.io/Lyrics-Finder/#/) and have a look around. 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Terminal**
+- cd into the repo folder. 
+- npm start
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+In this project:
+- Use Public API (musixmatch)
+- Diferent react component for every element on the app.
+- Redux manage every Event Action on the project.
+- Bootstrap.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To get a local copy  and to set it up and running follow these simple example steps.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Prerequisites
 
-### Code Splitting
+- Browser
+- Internet
+- Download the code from repository (https://github.com/Alexoid1/Lyrics-Finder)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
+## Author
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+👤 **Pablo Alexis Zambrano Coral**
 
-### Making a Progressive Web App
+- Github: [@Alexoid1](https://github.com/Alexoid1)
+- Twitter: [@pablo_acz](https://twitter.com/pablo_acz)
+- Linkedin: [linkedin](https://www.linkedin.com/in/pablo-alexis-zambrano-coral-7a614a189/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+## Show your support
 
-### Deployment
+Give a ⭐️ if you like this project!
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+## Acknowledgments
 
-### `npm run build` fails to minify
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## 📝 License
+
+This project is [MIT](LICENSE) licensed.#
